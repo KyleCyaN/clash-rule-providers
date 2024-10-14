@@ -1,0 +1,5 @@
+payload:
+  - '+.ookla.com'
+  - '+.ookla'
+  - '+.speedtest.net'
+  - '+.speedtest'
