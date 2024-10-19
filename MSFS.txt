@@ -1,5 +1,0 @@
-payload:
-  - '+.playfabapi.com'
-  - '+.azureedge.net'
-  - '+.virtualearth.net'
-  - '+.msgamestudios.com'
