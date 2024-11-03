@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,kaspersky.com
+  - DOMAIN-SUFFIX,kaspersky-labs.com
+  - DOMAIN-KEYWORD,kaspersky
+  - DOMAIN-KEYWORD,ksn
+  - IP-CIDR,104.140.14.0/24,DIRECT #USA
+  - IP-CIDR,5.180.138.0/24,DIRECT #RU
