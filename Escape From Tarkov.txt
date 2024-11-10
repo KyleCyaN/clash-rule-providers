@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN-SUFFIX,escapefromtarkov.com
+  - DOMAIN-KEYWORD,escapefromtarkov
+  - DOMAIN-KEYWORD,eft
   - IP-CIDR,5.188.95.0/24
   - IP-CIDR,5.188.124.0/24
   - IP-CIDR,5.188.148.0/24
