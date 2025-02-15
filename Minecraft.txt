@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,20ca2.playfabapi.com
   - IP-CIDR,103.154.188.0/24
   - IP-CIDR,101.93.146.0/24
   - IP-CIDR,111.202.83.0/24
