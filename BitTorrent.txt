@@ -1,8 +1,4 @@
 payload:
-  - DST-PORT,1337
-  - DST-PORT,6969
-  - DST-PORT,7777
-  - DST-PORT,8888
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,kinorun.com
   - DOMAIN,www.zone-torrent.net.php
@@ -213,3 +209,4 @@ payload:
   - DOMAIN,trackerb.jonaslsa.com
   - DOMAIN,v2.iperson.xyz
   - DOMAIN-KEYWORD,tracker
+  - DST-PORT,6969
