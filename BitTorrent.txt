@@ -14,6 +14,7 @@ payload:
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,p2p.0g.cx
   - DOMAIN,www.peckservers.com
+  - DOMAIN-KEYWORD,tracker
   - DST-PORT,1337
   - DST-PORT,6969
   - DST-PORT,2710
