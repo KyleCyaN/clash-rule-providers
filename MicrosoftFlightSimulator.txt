@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,webpubsub.azure.com
   - DOMAIN-SUFFIX,prod.sunrise.msgamestudios.com
+  - DOMAIN,sunrisecontent.akamaized.net
   - DOMAIN,kh.ssl.ak.tiles.virtualearth.net
   - DOMAIN,t.ssl.ak.dynamic.tiles.virtualearth.net
   - IP-CIDR,3.91.126.88/32
