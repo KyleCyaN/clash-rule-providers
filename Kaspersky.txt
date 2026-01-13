@@ -1,5 +1,3 @@
 payload:
-  - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,kaspersky-labs.com
   - DOMAIN-KEYWORD,kaspersky
-  - DOMAIN-KEYWORD,ksn
