@@ -1,3 +1,5 @@
 payload:
+  - DOMAIN,ocsp.sectigo.com
+  - DOMAIN,ocsp.usertrust.com
   - DOMAIN-SUFFIX,kaspersky-labs.com
   - DOMAIN-KEYWORD,kaspersky
