@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,playbattlegrounds.com
   - DOMAIN-SUFFIX,pubg.com
   - DOMAIN-SUFFIX,krafton.com
+  - DOMAIN-SUFFIX,battleye.com
   - DST-PORT,2090
   - DST-PORT,2091
   - DST-PORT,2092
