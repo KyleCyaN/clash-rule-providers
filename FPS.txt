@@ -3,8 +3,11 @@ payload:
   - DOMAIN-KEYWORD,eft
   - DOMAIN-KEYWORD,escapefromtarkov
   - DOMAIN-KEYWORD,tarkov
-  - DOMAIN-KEYWORD,battlegrounds
-  - DOMAIN-KEYWORD,battleye
+  - DOMAIN,api.pubg.com
+  - DOMAIN,prod-live-front.playbattlegrounds.com
+  - DOMAIN-SUFFIX,playbattlegrounds.com
+  - DOMAIN-SUFFIX,pubg.com
+  - DOMAIN-SUFFIX,krafton.com
   - DST-PORT,2090
   - DST-PORT,2091
   - DST-PORT,2092
