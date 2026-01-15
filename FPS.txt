@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,escapefromtarkov
   - DOMAIN-KEYWORD,tarkov
   - DOMAIN-KEYWORD,battlegrounds
+  - DOMAIN-KEYWORD,battleye
   - DST-PORT,2090
   - DST-PORT,2091
   - DST-PORT,2092
