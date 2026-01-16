@@ -1,5 +1,12 @@
 payload:
+  - DOMAIN,activation-v2.kaspersky.com
+  - DOMAIN,cm.k.kaspersky-labs.com
+  - DOMAIN,downloads.upd.kaspersky.com
+  - DOMAIN,ds.kaspersky.com
+  - DOMAIN,touch.kaspersky.com
   - DOMAIN,ocsp.sectigo.com
   - DOMAIN,ocsp.usertrust.com
+  - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,kaspersky-labs.com
-  - DOMAIN-KEYWORD,kaspersky
+  - DOMAIN-SUFFIX,upd.kaspersky.com
+  - DOMAIN-SUFFIX,ksn-*-geo.kaspersky-labs.com
