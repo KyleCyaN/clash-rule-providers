@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,flightsimulator.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,virtualearth.net
+  - DOMAIN-SUFFIX,playfab.com
   - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,webpubsub.azure.com
   - DOMAIN-SUFFIX,prod.sunrise.msgamestudios.com

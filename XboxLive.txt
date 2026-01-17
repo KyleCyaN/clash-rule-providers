@@ -1,13 +1,13 @@
 payload:
-  - DOMAIN,xboxlive.com,DIRECT
-  - DOMAIN,xbox.com,DIRECT
-  - DOMAIN,xboxservices.com,DIRECT
-  - DOMAIN,xboxaccount.com,DIRECT
-  - DOMAIN,xboxone.com,DIRECT
-  - DOMAIN,xbox360.com,DIRECT
-  - DOMAIN,xboxgamepass.com,DIRECT
-  - DOMAIN,xboxgamestudios.com,DIRECT
-  - DOMAIN,live.xbox.com,DIRECT
-  - DOMAIN,login.xboxlive.com,DIRECT
-  - DOMAIN,xbox-ipv6.microsoft.com,DIRECT
-  - DOMAIN,xboxoneauth.xboxlive.com,DIRECT
+  - DOMAIN,xboxlive.com
+  - DOMAIN,xbox.com
+  - DOMAIN,xboxservices.com
+  - DOMAIN,xboxaccount.com
+  - DOMAIN,xboxone.com
+  - DOMAIN,xbox360.com
+  - DOMAIN,xboxgamepass.com
+  - DOMAIN,xboxgamestudios.com
+  - DOMAIN,live.xbox.com
+  - DOMAIN,login.xboxlive.com
+  - DOMAIN,xbox-ipv6.microsoft.com
+  - DOMAIN,xboxoneauth.xboxlive.com
