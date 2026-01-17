@@ -2,5 +2,17 @@ payload:
   - DOMAIN-SUFFIX,webpubsub.azure.com
   - DOMAIN-SUFFIX,prod.sunrise.msgamestudios.com
   - DOMAIN,sunrisecontent.akamaized.net
-  - DOMAIN,kh.ssl.ak.tiles.virtualearth.net
   - DOMAIN,t.ssl.ak.dynamic.tiles.virtualearth.net
+  - DOMAIN-SUFFIX,flightsimulator.com,DIRECT
+  - DOMAIN,mcp.api.flightsimulator.com,DIRECT
+  - DOMAIN,int.mcp.packages.flightsimulator.com,DIRECT
+  - DOMAIN,live.flightsimulator.com,DIRECT
+  - DOMAIN-SUFFIX,azureedge.net,DIRECT
+  - DOMAIN,flightsimulator.azureedge.net,DIRECT
+  - DOMAIN,khstorelive.azureedge.net,DIRECT
+  - DOMAIN,t0.ssl.ak.tiles.virtualearth.net,DIRECT
+  - DOMAIN,t1.ssl.ak.tiles.virtualearth.net,DIRECT
+  - DOMAIN,t2.ssl.ak.tiles.virtualearth.net,DIRECT
+  - DOMAIN,t3.ssl.ak.tiles.virtualearth.net,DIRECT
+  - DOMAIN-SUFFIX,virtualearth.net,DIRECT
+  - DOMAIN-SUFFIX,playfabapi.com,DIRECT
