@@ -11,3 +11,4 @@ payload:
   - DOMAIN,login.xboxlive.com
   - DOMAIN,xbox-ipv6.microsoft.com
   - DOMAIN,xboxoneauth.xboxlive.com
+  - DOMAIN-SUFFIX,playfab.com
