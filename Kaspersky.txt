@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,o.pki.goog
   - DOMAIN,ds.kaspersky.com
   - DOMAIN,dnl-00.geo.kaspersky.com
   - DOMAIN,dnl-01.geo.kaspersky.com
@@ -75,5 +76,8 @@ payload:
   - DOMAIN,ocsp.kaspersky.com
   - DOMAIN,cm.k.kaspersky-labs.com
   - DOMAIN,moebius.kaspersky-labs.com
+  - DOMAIN,services.ucp.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ucp-ntfy.kaspersky-labs.com
+  - DOMAIN-SUFFIX,ksn.kaspersky-labs.com
   - DOMAIN-SUFFIX,kaspersky.com
   - DOMAIN-SUFFIX,kaspersky-labs.com
