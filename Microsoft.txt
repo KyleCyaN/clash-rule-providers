@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+  - DOMAIN-SUFFIX,windows.com
   - DOMAIN,ctldl.windowsupdate.com
   - DOMAIN,update.microsoft.com
   - DOMAIN,update.microsoft.com.nsatc.net
