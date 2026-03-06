@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,eft
   - DOMAIN-KEYWORD,escapefromtarkov
   - DOMAIN-KEYWORD,tarkov
+  - DOMAIN-KEYWORD,gameloft
   - DOMAIN,api.pubg.com
   - DOMAIN,prod-live-front.playbattlegrounds.com
   - DOMAIN-SUFFIX,playbattlegrounds.com
